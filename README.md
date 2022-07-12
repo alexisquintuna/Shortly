@@ -3,7 +3,7 @@
 ## Description 
 
 This project was to get familiarized with [Tailwind](https://tailwindcss.com/).
-[Click here](https://stately-crisp-b6c745.netlify.app/) to see live site.
+[Click here](https://verdant-puppy-f9c13d.netlify.app/) to see live site.
 
 ## Images
 
